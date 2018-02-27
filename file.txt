@@ -1,2 +1,4 @@
 My first line in project
 Paris is the capital of France
+Chelyabinsk is the capital of South Ural
+Yekaterinburg is the capital of Middle Ural
